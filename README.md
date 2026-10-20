@@ -3,4 +3,8 @@
 # Electricity Bill Calculator
 
 ## Description
-This program helps with calculating electricity bill
+This program helps with calculating electricity bill for consumers.
+
+## VERSION 1
+
+Input: 
