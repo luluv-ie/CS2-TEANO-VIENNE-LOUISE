@@ -10,4 +10,10 @@ This program helps with calculating electricity bill for consumers.
 -  Input: Accept customers name along with previous meter reading and current.
 - Process: Calculates electricity consumption.
 - Output: Gives the electricity consumption bill.
-Does not have validation input.
+- Does not have validation input.
+
+## VERSION 2
+-  Input: Accept customers name along with previous meter reading and current.
+- Process: Calculates electricity consumption.
+- Output: Gives the electricity consumption bill.
+- Does have validation input.
