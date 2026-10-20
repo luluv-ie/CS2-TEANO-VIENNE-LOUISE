@@ -7,6 +7,6 @@ This program helps with calculating electricity bill for consumers.
 
 ## VERSION 1
 
-Input: Accept customers name along with previous meter reading and current.
-Process:
-Output:
+1 Input: Accept customers name along with previous meter reading and current.
+2 Process:
+3 Output:
